@@ -1,2 +1,2 @@
 # TEMPLATES
-Various machine learning templates
+Various machine learning templates I've built
